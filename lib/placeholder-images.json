@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "villa",
+      "description": "A beautiful tropical villa",
+      "imageUrl": "https://picsum.photos/seed/villa/1200/800",
+      "imageHint": "tropical villa"
+    },
+    {
+      "id": "host-avatar",
+      "description": "Avatar for a host user",
+      "imageUrl": "https://picsum.photos/seed/host/40/40",
+      "imageHint": "person face"
+    },
+    {
+      "id": "villa-thumb",
+      "description": "Thumbnail of a beautiful tropical villa",
+      "imageUrl": "https://picsum.photos/seed/villa/80/60",
+      "imageHint": "tropical villa"
+    },
+    {
+      "id": "loft-thumb",
+      "description": "Thumbnail of a city loft",
+      "imageUrl": "https://picsum.photos/seed/loft/80/60",
+      "imageHint": "city loft"
+    },
+    {
+      "id": "cottage-thumb",
+      "description": "Thumbnail of a seaside cottage",
+      "imageUrl": "https://picsum.photos/seed/cottage/80/60",
+      "imageHint": "seaside cottage"
+    },
+    {
+      "id": "id-card-placeholder",
+      "description": "Placeholder for an ID card",
+      "imageUrl": "https://picsum.photos/seed/idcard/600/400",
+      "imageHint": "id card"
+    },
+    {
+      "id": "selfie-placeholder",
+      "description": "Placeholder for a selfie",
+      "imageUrl": "https://picsum.photos/seed/selfie/600/600",
+      "imageHint": "person selfie"
+    },
+    {
+      "id": "signature-placeholder",
+      "description": "Placeholder for a handwritten signature",
+      "imageUrl": "https://picsum.photos/seed/signature/300/100",
+      "imageHint": "handwritten signature"
+    }
+  ]
+}
